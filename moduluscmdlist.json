@@ -1,0 +1,30 @@
+{
+    "help": {
+        "path": "../Modulus Commands/help.js",
+        "fullpath": "/Modulus Commands/help.js"
+    },
+    "addcmd": {
+        "path": "../Modulus Commands/addcmd.js",
+        "fullpath": "/Modulus Commands/addcmd.js"
+    },
+    "list": {
+        "path": "../Modulus Commands/list.js",
+        "fullpath": "/Modulus Commands/list.js"
+    },
+    "editcmd": {
+        "path": "../Modulus Commands/editcmd.js",
+        "fullpath": "/Modulus Commands/editcmd.js"
+    },
+    "delcmd": {
+        "path": "../Modulus Commands/delcmd.js",
+        "fullpath": "/Modulus Commands/delcmd.js"
+    },
+    "eval": {
+        "path": "../Modulus Commands/eval.js",
+        "fullpath": "/Modulus Commands/eval.js"
+    },
+    "unlist": {
+        "path": "../Modulus Commands/unlist.js",
+        "fullpath": "/Modulus Commands/unlist.js"
+    }
+}

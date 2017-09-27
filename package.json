@@ -1,0 +1,31 @@
+{
+  "name": "modulus",
+  "version": "1.0.0",
+  "description": "A super-simple discord.js shell for a modular bot.",
+  "main": "modulus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheConceptionist/modulus.git"
+  },
+  "keywords": [
+    "discord.js",
+    "discord",
+    "app",
+    "bot"
+  ],
+  "author": "The Conceptionist",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheConceptionist/modulus/issues"
+  },
+  "homepage": "https://github.com/TheConceptionist/modulus#readme",
+  "dependencies": {
+    "discord.js": "^11.0.0",
+    "fs": "0.0.1-security",
+    "underscore": "^1.8.3",
+    "util": "^0.10.3"
+  }
+}
